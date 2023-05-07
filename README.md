@@ -1,7 +1,7 @@
 # Analise_Dados_Geral
 
 Meu objetivo Neste código é colocar todos os meus conhecimentos de Analise de dados em pratica
-- Pandas e plotly.express
+- Pandas e plotly.express(Possivel Incompatibilidade visualização de graficos favor abrir colab) 
 
 # Bases
 - Base Clientes Bancos. Desafio resolver o numero de cancelamentos da empresa
