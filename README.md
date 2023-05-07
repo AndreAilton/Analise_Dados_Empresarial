@@ -1,4 +1,4 @@
-# Analise_Dados_Geral
+# Analise_Dados_Empresarial
 
 Meu objetivo Neste código é colocar todos os meus conhecimentos de Analise de dados em pratica
 - Pandas e plotly.express
